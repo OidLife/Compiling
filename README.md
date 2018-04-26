@@ -35,9 +35,9 @@ Go here -> https://github.com/OidLife/Troubleshooting
 
 13) ```make -f makefile.unix RELEASE=1```
 
-## *** The compiling will take about 15 to 30 minutes depending on your system. ***
+### *** The compiling will take about 15 to 30 minutes depending on your system. ***
 
-## *** Your compiled daemon named opioidd can be found in the src folder when compiling is finished.
+### *** Your compiled daemon named opioidd can be found in the src folder when compiling is finished.
 
 14) ```chmod +x opioidd```
 
@@ -63,7 +63,10 @@ txindex=1
 ```
 20) Ctrl + X and it will ask you to save file, hit Y
 
-21) type ```opioidd``` (with no errors you should get Opioid Server Running)
+21) type `opioidd` (with no errors you should get Opioid Server Running)
 
-22) if you have watch installed type "```watch opioidd getinfo```" and let it sync to the highest block.
-** you can simply type "```opioidd getinfo```" and wait for enough peers to connect **
+22) if you have watch installed type "`watch opioidd getinfo`" and let it sync to the highest block.  
+** you can simply type "`opioidd getinfo`" and wait for enough peers to connect **
+
+Thank you,  
+[OID Team](https://oid.life/)
