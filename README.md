@@ -57,8 +57,8 @@ rpcallowip=YOUR LOCALHOST IP
 rpcport=36362
 listen=1
 server=1
-daemon=1 <-keep this at 1 if this is a daemon instance (not a node)
-staking=0 <-keep this =0
+daemon=1 #<-keep this at 1 if this is a daemon instance (not a node)
+staking=0 #<-keep this =0
 txindex=1
 ```
 20) Ctrl + X and it will ask you to save file, hit Y
