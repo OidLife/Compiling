@@ -2,6 +2,7 @@
 Compile the OID Daemon
 
 Note: Use Linux Ubuntu 14.04 (recommended) If you plan to use Ubuntu 16.04+ please see our troubleshooting guide.
+
 Go here -> https://github.com/OidLife/Troubleshooting
 
 # Opioid compile from source:
